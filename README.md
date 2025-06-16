@@ -82,4 +82,4 @@ For further exploration, consider adding cross-validation or feature importance 
 License
 This project is for educational purposes and uses the publicly available Iris dataset.
 Contact
-For questions or issues, please contact the project maintainer or open an issue in the repository (if applicable).
+For questions or issues, please contact the project maintainer or open an issue in the repository.
